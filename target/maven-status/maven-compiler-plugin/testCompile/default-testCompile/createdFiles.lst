@@ -1,0 +1,7 @@
+tests\LoginErrorValidationTest.class
+SonikaProject\TestComponent\Retry.class
+SonikaProject\TestComponent\Listener.class
+tests\standAloneTest.class
+tests\SubmitOrderTest.class
+SonikaProject\TestComponent\BaseTest.class
+SonikaProject\TestComponent\BaseTest$1.class

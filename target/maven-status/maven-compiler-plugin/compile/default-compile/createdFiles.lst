@@ -1,0 +1,8 @@
+SonikaProject\AbstractComponent\AbstractComponent.class
+SonikaProject\pageobjects\LoginPage.class
+SonikaProject\pageobjects\CheckoutPage.class
+SonikaProject\pageobjects\OrderPage.class
+SonikaProject\resources\ExtentRportNG.class
+SonikaProject\pageobjects\ConfirmationPage.class
+SonikaProject\pageobjects\Cartpage.class
+SonikaProject\pageobjects\ProductCataloguePage.class
