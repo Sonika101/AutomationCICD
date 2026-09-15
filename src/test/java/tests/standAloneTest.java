@@ -17,7 +17,7 @@ public class standAloneTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//Githib and jenkins to trigeer through webhook
 		
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://rahulshettyacademy.com/client/#/auth/login");
